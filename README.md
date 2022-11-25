@@ -1,2 +1,2 @@
 # ejemploBedu 
-# Se realiza primer cambio al archivo
+# Se realiza una modificación al archivo
